@@ -1,0 +1,14 @@
+{
+  "name": "cs-geni-labs",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Small tested labs for the first CS-Geni ideas.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
